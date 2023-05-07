@@ -1,0 +1,4 @@
+.ht*
+.htaccess
+*.log
+!.gitignore
